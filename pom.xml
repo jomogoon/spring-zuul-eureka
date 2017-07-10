@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.exampledriven</groupId>
-    <artifactId>spring-cloud-zuul-example-aggregator</artifactId>
+    <artifactId>spring-zuul-eureka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Spring cloud zuul example aggregator</name>
+    <name>Spring boot cloud example with Zuul and Eureka</name>
 
     <modules>
         <module>zuul-server</module>

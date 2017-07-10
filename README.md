@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/ExampleDriven/spring-cloud-zuul-example.svg?branch=master)](https://travis-ci.org/ExampleDriven/spring-cloud-zuul-example)
 # spring-cloud-zuul-example
 
-This is the source code for the blog post
+This is based on the source code for the blog post by @szantopeter
 
 https://exampledriven.wordpress.com/2016/07/06/spring-cloud-zuul-example/
+https://github.com/ExampleDriven/spring-cloud-eureka-example
 
 
 Feature |test url
